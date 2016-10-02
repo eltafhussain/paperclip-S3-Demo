@@ -3,6 +3,8 @@ development: &default
   database: paperclip_demo_development
   encoding: utf8
   min_messages: warning
+  username: postgres
+  password: admin
   pool: 5
   reaping_frequency: 10
   timeout: 5000

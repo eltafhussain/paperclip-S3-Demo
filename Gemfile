@@ -9,6 +9,7 @@ gem "paperclip"
 gem "pg"
 gem "sass-rails"
 gem "uglifier"
+gem 'tzinfo-data', platform: [:mingw,:mswin,:x64_mingw]
 
 group :development do
   gem "web-console", "~> 2.0"
