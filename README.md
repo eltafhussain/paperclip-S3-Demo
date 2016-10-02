@@ -68,4 +68,4 @@ The names and logos for thoughtbot are trademarks of thoughtbot, inc.
 License
 -------
 
-Trail Map is licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
+Trail Map is licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)."# S3-Storage-Heroku" 
