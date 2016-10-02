@@ -83,7 +83,7 @@ PaperclipDemo::Application.configure do
     storage: :s3,
     s3_protocol: 'http',
     s3_credentials: {
-      bucket: ENV.fetch("AWS_BUCKET"),
+      bucket: ENV.fetch("pcdemo-bucket"),
       access_key_id: ENV.fetch("AKIAIWZFWRXVGE4MQGWQ"),
       secret_access_key: ENV.fetch("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"),
       s3_region: ENV.fetch("Oregon"),
