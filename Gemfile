@@ -25,3 +25,8 @@ group :test do
   gem "capybara"
   gem "shoulda-matchers", ">= 3.0.0", require: false
 end
+group :production do
+  gem 'rails_12factor', '0.0.2'
+
+  gem 'puma'
+end
